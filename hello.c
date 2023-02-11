@@ -1,4 +1,5 @@
 //dummy .c file
+//another comment
 #include <stdio.h>
 
 int main(void)
