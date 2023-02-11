@@ -1,2 +1,2 @@
 //third hello
-//alpine linux
+//macOS and alpine linux
